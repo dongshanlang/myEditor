@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imagines">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/Exit icon.png</file>
+        <file>images/Undo icon.png</file>
+        <file>images/next.PNG</file>
+        <file>images/previous.PNG</file>
+        <file>images/redo icon.png</file>
+        <file>images/saveas icon.png</file>
+    </qresource>
+</RCC>
